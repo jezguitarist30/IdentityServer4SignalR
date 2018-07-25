@@ -49,7 +49,7 @@ namespace SignalR
               .AddIdentityServerAuthentication(IdentityServerAuthenticationDefaults.AuthenticationScheme, options =>
               {
                   options.Authority = "http://localhost:5000";
-                 options.ApiName = "custom.profile";// Configuration["ApiName"];
+                 options.ApiName = "SignalRDemo";// Configuration["ApiName"];
                   options.TokenRetriever = TokenRetrieverService.FromHeaderAndQueryString;
                 //  options.ApiSecret = "my-client-secret";//Configuration["ApiSecret"];
               });
@@ -85,6 +85,12 @@ namespace SignalR
             {
                 routes.MapHub<Chat>("/hubs/chat");
             });
+
+            // Your angular token should be the following
+            //var connection = new signalR.HubConnectionBuilder()
+            //.withUrl("https://localhost:44348/hubs/chat?token=", { accessTokenFactory: () => loginToken })
+            //.configureLogging(signalR.LogLevel.Information)
+            //.build();
 
             app.Run(async (context) =>
             {
