@@ -1,0 +1,17 @@
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\bin\Debug\netcoreapp2.1\SignalR.deps.json
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\bin\Debug\netcoreapp2.1\SignalR.runtimeconfig.json
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\bin\Debug\netcoreapp2.1\SignalR.runtimeconfig.dev.json
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\bin\Debug\netcoreapp2.1\SignalR.dll
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\bin\Debug\netcoreapp2.1\SignalR.pdb
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\bin\Debug\netcoreapp2.1\DAL.dll
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.csprojAssemblyReference.cache
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.csproj.CoreCompileInputs.cache
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorAssemblyInfo.cache
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorAssemblyInfo.cs
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.AssemblyInfoInputs.cache
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.AssemblyInfo.cs
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorTargetAssemblyInfo.cache
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.csproj.CopyComplete
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.dll
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\SignalR\obj\Debug\netcoreapp2.1\SignalR.pdb

@@ -1,0 +1,8 @@
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+D:\JEZREEL\Training & Seminars Materials\PHINUG\SignalR with Angular\Demo\SignalRAuth\SignalRAuth\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
